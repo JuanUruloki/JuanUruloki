@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanuruloki" alt="juanuruloki" /></a> </p>
 
-- 🔭 Actualmente estoy trabajando en [Bon Appetite](https://bonappetite.vercel.app/)
+<!-- - 🔭 Actualmente estoy trabajando en [Bon Appetite](https://bonappetite.vercel.app/) -->
 
 - 💬 Preguntame sobre **JavaScript, NodeJS, React, Redux, SQL**
 
 - 📫 Como contactarme **juanuruloki@gmail.com +54-9-351-3378459**
 
-- ⚡ Dato curioso **Soy muy curioso y me gusta aprender cosas nuevas**
+<!-- - ⚡ Dato curioso **Soy muy curioso y me gusta aprender cosas nuevas** -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/juan pablo valdivia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan pablo valdivia" height="30" width="40" /></a>
-<a href="https://fb.com/juan pablo valdivia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan pablo valdivia" height="30" width="40" /></a>
-<a href="https://instagram.com/juampi_valdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juampi_valdi" height="30" width="40" /></a>
+<!-- <a href="https://fb.com/juan pablo valdivia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juan pablo valdivia" height="30" width="40" /></a> -->
+<!-- <a href="https://instagram.com/juampi_valdi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juampi_valdi" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
