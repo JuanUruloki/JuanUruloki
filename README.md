@@ -7,7 +7,7 @@
 
 <!-- - 🔭 Actualmente estoy trabajando en [Bon Appetite](https://bonappetite.vercel.app/) -->
 
-- 💬 Preguntame sobre **JavaScript, NodeJS, React, Redux, SQL**
+- 💬 Preguntame sobre **JavaScript, Typescript, NodeJS, React, Next.js, Redux, SQL**
 
 - 📫 Como contactarme **juanuruloki@gmail.com +54-9-351-3378459**
 
